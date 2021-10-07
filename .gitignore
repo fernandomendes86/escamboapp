@@ -16,3 +16,7 @@
 /log/*
 !/log/.keep
 /tmp
+
+#assets e templates
+/public/assets
+/public/templates
